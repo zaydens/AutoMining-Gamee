@@ -1,4 +1,8 @@
 # AutoMining-Gamee
+
+![image](https://github.com/AirDropFamilyIDN/AutoMining-Gamee/assets/169967728/afcafbdf-6a78-4d9c-af26-8c0190a31e2c)
+
+
 # Join Komunitas Airdrop 
 https://t.me/AirdropFamilyIDN
 
