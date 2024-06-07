@@ -2,7 +2,7 @@
 # Join Komunitas Airdrop 
 https://t.me/AirdropFamilyIDN
 
-# INPUT MANUAL TIMER CLAIM
+# Install And Run
 - git clone https://github.com/AirDropFamilyIDN/AutoMining-Gamee.git
 - cd AutoMining-Gamee
 - pip install -r requirements.txt
